@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-wcuv89.idncuan.xyz/sitemap.xml
